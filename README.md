@@ -16,7 +16,7 @@ This project analyzes the relationship between *Exchange Rate and Inflation Rate
 -  **Control Inflation** – The Central Bank should stabilize inflation through monetary policy to prevent stock market fluctuations.
 -  **Strengthen Investor Confidence** – Ensuring economic stability will attract both foreign and domestic investment into IHSG.
 
-**The full presentation is available in this repository. A Power BI Dashboard can be downloaded here:** [EXR and INFL on IHSG.pdf]([EXR and INFL on IHSG.pdf](https://github.com/user-attachments/files/18759830/EXR.and.INFL.on.IHSG.pdf)) or [EXR and INFL on IHSG.pbix](https://github.com/MRamadhanKesaPI/The-Impact-of-Macroeconomic-Factors-on-IHSG/blob/main/EXR%20and%20INFL%20on%20IHSG.pbix)
+**The full presentation is available in this repository. A Power BI Dashboard can be downloaded here:** [EXR and INFL on IHSG.pdf](https://github.com/user-attachments/files/18759830/EXR.and.INFL.on.IHSG.pdf)) or [EXR and INFL on IHSG.pbix](https://github.com/MRamadhanKesaPI/The-Impact-of-Macroeconomic-Factors-on-IHSG/blob/main/EXR%20and%20INFL%20on%20IHSG.pbix)
 
 ![IHSG1](https://github.com/user-attachments/assets/06abcd85-069c-4e7e-b8da-8641c6a6d396)
 
