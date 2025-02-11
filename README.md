@@ -1,14 +1,15 @@
 # The Impact of Macroeconomic Factors on IHSG: A Regression Analysis
 
-## Introduction  
-Welcome to my personal project repository!  
+**Welcome to my personal project repository!**  
 
-This project analyzes the relationship between *Exchange Rate and Inflation Rate* with *The Jakarta Composite Index (IHSG)* using regression techniques. By examining macroeconomic factors, this study provides valuable insights for investors and policymakers looking to understand IHSG trends.  
+## Introduction  
+
+This project analyzes the relationship between *Exchange Rate and Inflation Rate* with *The Jakarta Composite Index* (IHSG) using regression techniques. By examining macroeconomic factors, this study provides valuable insights for investors and policymakers looking to understand IHSG trends.  
 
 ## Key Findings  
-- *Exchange Rate significantly boosts* IHSG performance.  
-- *Inflation Rate has a negative effect*, but its impact is relatively smaller.  
-- The model successfully explains *74.7% of IHSG’s movement* with strong statistical significance.  
+- Exchange Rate significantly boosts IHSG performance.  
+- Inflation Rate has a negative effect, but its impact is relatively smaller.  
+- The model successfully explains 74.7% of IHSG’s movement with strong statistical significance.  
 
 ## Policy Recommendations  
 -  **Support Trade Growth** – The government should encourage exports and maintain balanced trade to boost IHSG.
@@ -41,4 +42,4 @@ This project analyzes the relationship between *Exchange Rate and Inflation Rate
 
 ![IHSG12](https://github.com/user-attachments/assets/68bc3252-c09d-4a49-942d-64be72013eef)
 
-**Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!**
+### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
