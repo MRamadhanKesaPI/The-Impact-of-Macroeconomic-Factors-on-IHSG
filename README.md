@@ -4,17 +4,17 @@
 
 ## Introduction  
 
-This project analyzes the relationship between *Exchange Rate and Inflation Rate* with *The Jakarta Composite Index* (IHSG) using regression techniques. By examining macroeconomic factors, this study provides valuable insights for investors and policymakers looking to understand IHSG trends.  
+This project explores the impact of exchange rates (EXR) and inflation (INFL) on the Indonesia Composite Index (IHSG) using time-series regression (2010–2024). By analyzing macroeconomic factors, it provides valuable insights for investors and risk analysts to navigate market trends in Indonesia’s emerging economy.
 
 ## Key Findings  
 - Exchange Rate significantly boosts IHSG performance.  
 - Inflation Rate has a negative effect, but its impact is relatively smaller.  
-- The model successfully explains 74.7% of IHSG’s movement with strong statistical significance.  
+- The model successfully explains 75% of IHSG’s movement with strong statistical significance.  
 
-## Policy Recommendations  
--  **Support Trade Growth** – The government should encourage exports and maintain balanced trade to boost IHSG.
--  **Control Inflation** – The Central Bank should stabilize inflation through monetary policy to prevent stock market fluctuations.
--  **Strengthen Investor Confidence** – Ensuring economic stability will attract both foreign and domestic investment into IHSG.
+## Recommendations (Investment & Risk Management Strategies)
+-  A stronger IDR lowers business costs and boosts IHSG, while a weaker IDR attracts foreign investment. Use this to time investments wisely. 
+-  Balance portfolios during inflation by focusing on commodities, utilities, and consumer staples, as these sectors tend to perform better.
+-  Stay informed on macroeconomic trends by tracking central bank policies and global market movements to adjust strategies effectively.
 
 **The full presentation is available in this repository. A Power BI Dashboard can be downloaded here:** [EXR and INFL on IHSG.pdf](https://github.com/user-attachments/files/18759830/EXR.and.INFL.on.IHSG.pdf) or [EXR and INFL on IHSG.pbix](https://github.com/MRamadhanKesaPI/The-Impact-of-Macroeconomic-Factors-on-IHSG/blob/main/EXR%20and%20INFL%20on%20IHSG.pbix)
 
@@ -50,4 +50,5 @@ This project analyzes the relationship between *Exchange Rate and Inflation Rate
 
 ![IHSG12](https://github.com/user-attachments/assets/8804a152-a8cc-4db5-9b8d-fe3cef7b8f86)
 
+---
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
