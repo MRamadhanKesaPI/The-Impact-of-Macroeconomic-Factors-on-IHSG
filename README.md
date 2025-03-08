@@ -1,4 +1,4 @@
-# The Impact of Macroeconomic Factors on IHSG: A Regression Analysis
+# The Impact of Macroeconomic Factors on Indonesia Composite Index (IHSG): A Regression Analysis
 
 **Welcome to my personal project repository!**  
 
