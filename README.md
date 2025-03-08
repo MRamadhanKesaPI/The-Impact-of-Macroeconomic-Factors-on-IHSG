@@ -20,26 +20,34 @@ This project analyzes the relationship between *Exchange Rate and Inflation Rate
 
 ![IHSG1](https://github.com/user-attachments/assets/06abcd85-069c-4e7e-b8da-8641c6a6d396)
 
-![IHSG2](https://github.com/user-attachments/assets/6eb0aa89-c09d-4190-b555-7fbeee2f565a)
+![IHSG18](https://github.com/user-attachments/assets/df6d3407-6206-44b2-bbfb-9f121077897b)
 
-![Full Stock](https://github.com/user-attachments/assets/2d854ccc-1c5f-4a77-8c96-f589eafd814e)
+![Full Stock](https://github.com/user-attachments/assets/e7e793ab-c407-4faf-91a3-44e7eaef30ae)
 
-![IHSG4](https://github.com/user-attachments/assets/8384a5b5-fa17-4d59-ba13-ff09fb77609c)
+![IHSG4](https://github.com/user-attachments/assets/e808c347-9a13-41d9-a28b-07198e40d2f4)
 
 ![IHSG5](https://github.com/user-attachments/assets/b59471da-3942-4880-9f89-795074b3b98f)
 
-![IHSG6](https://github.com/user-attachments/assets/e100695a-7de1-4a4f-99a3-86113e03f01c)
+![IHSG8](https://github.com/user-attachments/assets/29fd5cb3-33b5-4d45-a685-9dc7ed18004d)
 
 ![IHSG7](https://github.com/user-attachments/assets/c9584657-d775-4cad-b9d7-34f77cdac446)
 
-![IHSG8](https://github.com/user-attachments/assets/29fd5cb3-33b5-4d45-a685-9dc7ed18004d)
+![IHSG6](https://github.com/user-attachments/assets/e100695a-7de1-4a4f-99a3-86113e03f01c)
 
 ![IHSG9](https://github.com/user-attachments/assets/9a6d486e-b113-4b48-b79b-6953c2f8aa4a)
 
-![IHSG10](https://github.com/user-attachments/assets/5b650045-76fb-43f1-b1ca-e759b9404f95)
+![IHSG13](https://github.com/user-attachments/assets/eb7025f9-70b3-49ab-a27e-3c7ad603bcf7)
 
-![IHSG11](https://github.com/user-attachments/assets/f511cb7e-afd6-47f1-8c0e-d689e9a1e68a)
+![IHSG10](https://github.com/user-attachments/assets/3313e374-a68e-4695-928d-eef4846613f3)
 
-![IHSG12](https://github.com/user-attachments/assets/68bc3252-c09d-4a49-942d-64be72013eef)
+![IHSG14](https://github.com/user-attachments/assets/d379aa12-4ccb-4aab-97e9-7e1256cd0347)
+
+![IHSG15](https://github.com/user-attachments/assets/e2b72d25-cb98-4923-8905-252053e18cad)
+
+![IHSG16](https://github.com/user-attachments/assets/f5cbad04-40bd-48f3-a089-3f18933c5ac0)
+
+![IHSG17](https://github.com/user-attachments/assets/8d4c7ab9-59c7-4667-863e-58b7c6e28a39)
+
+![IHSG12](https://github.com/user-attachments/assets/8804a152-a8cc-4db5-9b8d-fe3cef7b8f86)
 
 ### Thank you for exploring this project, Feel free to hear your thoughts, insights, or any feedback! Let’s keep the discussion going!
