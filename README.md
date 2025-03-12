@@ -16,7 +16,7 @@ This project explores the impact of exchange rates (EXR) and inflation (INFL) on
 -  Balance portfolios during inflation by focusing on commodities, utilities, and consumer staples, as these sectors tend to perform better.
 -  Stay informed on macroeconomic trends by tracking central bank policies and global market movements to adjust strategies effectively.
 
-**The full presentation is available in this repository. A Power BI Dashboard can be downloaded here:** [Macroeconomic Factors on IHSG.pdf](https://github.com/user-attachments/files/19202314/Macroeconomic.Factors.on.IHSG.pdf) or [Macroeconomic Factors on IHSG.pbix](https://github.com/MRamadhanKesaPI/The-Impact-of-Macroeconomic-Factors-on-IHSG/blob/main/EXR%20and%20INFL%20on%20IHSG.pbix)
+**The full presentation is available in this repository. A Power BI Dashboard can be downloaded here:** [Macroeconomic Factors on IHSG.pdf](https://github.com/user-attachments/files/19202314/Macroeconomic.Factors.on.IHSG.pdf) or [Macroeconomic Factors on IHSG.pbix](https://github.com/MRamadhanKesaPI/The-Impact-of-Macroeconomic-Factors-on-IHSG/blob/main/Macroeconomic%20Factors%20on%20IHSG.pbix)
 
 ![IHSG1](https://github.com/user-attachments/assets/06abcd85-069c-4e7e-b8da-8641c6a6d396)
 
